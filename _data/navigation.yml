@@ -2,7 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/
-    
+
+- title: "Work Experience"
+    url: /work_experince/
+ 
   - title: "CV"
     url: /cv/
 
