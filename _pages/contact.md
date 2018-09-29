@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## Address
 
-University of Luxembourg, Kirchberg Campus, Office Bloc B-F113
+University of Luxembourg, Kirchberg Campus, Office Block F-F113
 
 6, rue Richard Coudenhove-Kalergi, L-1359 Luxembourg
  
