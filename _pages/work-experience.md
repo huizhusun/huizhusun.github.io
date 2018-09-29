@@ -24,7 +24,7 @@ author_profile: true
   * Conferences and workshops organization and administrative support, such as 2nd and 3rd Annual Luxembourg Asset Management Summit.
 
 ## Credit Specialist
-* **From 07/2008-02/2009, at Credit Card Center of China Merchant Bank, Shanghai, China**
+* **From 07/2008-02/2011, at Credit Card Center of China Merchant Bank, Shanghai, China**
   * Optimizing and maintaining the operation of the credit information system. 
   * Implementing new strategies of credit scoring for controlling credit risk in system. 
   * Dealing with micro-data to segment and specify customers according to credit score levels.
